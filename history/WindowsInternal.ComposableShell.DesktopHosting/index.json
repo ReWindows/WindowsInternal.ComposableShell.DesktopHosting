@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "WindowsInternal.ComposableShell.DesktopHosting.dll",
+  "latest": "3252023546-B6AB336C85B4F8B776872896B0702F8E-1",
+  "builds": [
+    {
+      "key": "3252023546-B6AB336C85B4F8B776872896B0702F8E-1",
+      "timestamp": "3252023546",
+      "pdb_guid": "B6AB336C85B4F8B776872896B0702F8E",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3252023546-B6AB336C85B4F8B776872896B0702F8E-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
